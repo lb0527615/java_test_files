@@ -1,0 +1,2 @@
+This repository is meant to contain a library of .java programs that I worked on as part of a programming class while attending a university. A majority of the files that I would run would utilize a standard libraries file called stdlib.jar.
+stdlib.jar is required to be installed and extracted into a file before attempting to run any of the .java files related to this repository. Additionally, all files will need to refer to the folder when needed.
